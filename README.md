@@ -10,7 +10,7 @@ and can share them with other users.
 
 obs:Bin = workspace
 
-##Topics covered
+##Covered Topics
 
 Authentication, routing, meteor components (data, react-addons-pure-render-mixin, etc.).
 
